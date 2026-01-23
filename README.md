@@ -6,122 +6,100 @@
 
 ---
 
-## 👩‍💻 About Me
-I am a Computer Science student with a strong passion for **Data Science, Machine Learning**, and **problem solving**.  
-I enjoy turning data into insights, building real-world systems, and tackling complex algorithmic challenges.
+## 🧰 Tech Stack
 
-- 💡 Solid foundation in **Data Science & Machine Learning**
-- 🧩 Strong interest in **Problem Solving using C++**
-- 🏆 Solved **500+ problems on Codeforces**
-- 🚀 Experience in building **full-stack systems** and **AI-powered applications**
+### 💻 Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### 🌐 Web Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+### 📊 Data Science & Machine Learning
+![Data Science](https://img.shields.io/badge/Data%20Science-4CAF50?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+### 🗄️ Databases & Tools
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
-## 🛠️ Technical Skills
+## 👩‍💻 About Me
+I am a Computer Science student with a strong passion for **Data Science, Machine Learning**, and **problem solving**.  
+I enjoy building real-world systems, analyzing data, and solving complex algorithmic challenges.
 
-**Programming Languages**
-- Python
-- C++
-- SQL
-- JavaScript
-- HTML & CSS
-
-**Data Science & ML**
-- Data Analysis
-- Machine Learning Models
-- Feature Engineering
-- Model Evaluation
-- Satellite Image Classification
-
-**Web Development**
-- Frontend: HTML, CSS, JavaScript  
-- Backend: Python (Flask)
-- Databases: SQLite
-
-**Tools & Platforms**
-- Git & GitHub
-- VS Code
-- Linux Basics
+- 🏆 Solved **500+ problems on Codeforces**
+- 🧠 Strong background in **Algorithms & Data Structures**
+- 🚀 Experience in **Full-Stack Development** and **AI-powered systems**
 
 ---
 
 ## 🚀 Projects
 
-### 🏫 Nursery Management System (Full-Stack Web Application)
-A complete and fully functional web-based system built using:
-- **HTML, CSS, JavaScript**
-- **Python (Flask)**
-- **SQLite**
+### 🏫 Nursery Management System
+**Full-Stack Web Application** using **Flask, SQLite, HTML, CSS, JavaScript**
 
-**Features:**
-- Manage children, parents, employees, classrooms, branches, and fees
-- Role-based management
-- Real-world business logic
-- Fully working and deployed system
+- Manage children, parents, employees, classrooms, branches, and fees  
+- Real-world business logic  
+- Fully functional and deployed system  
 
 ---
 
-### 🛰️ Satellite Land Classification (Data Science Project)
-A **Data Science & Machine Learning project** focused on classifying different types of land using satellite images.
+### 🛰️ Satellite Land Classification
+**Data Science & Machine Learning Project**
 
-🏆 **Achievement:**  
-🥉 **3rd Place – Digital Egypt Pioneers Initiative (National Level)**
+🥉 **3rd Place – Digital Egypt Pioneers Initiative (Nationwide)**
 
-**Highlights:**
-- Image-based data processing
-- Machine Learning classification
-- Strong practical application of data science concepts
+- Satellite image processing  
+- Land type classification using ML models  
 
 ---
 
-### 🎓 Course Management System (Advanced Full-Stack + AI)
-A large-scale and comprehensive **Course Management System** for:
-- Students
-- Instructors
+### 🎓 Course Management System (With AI)
+**Large-scale Full-Stack Educational Platform**
 
-**Key Features:**
-- Full frontend, backend, and database design
-- Instructor & student dashboards
-- Integrated **AI features** to assist instructors (e.g. generating assignments)
-- Designed to cover all real-world needs of an educational platform
+- Student & Instructor management  
+- AI-assisted assignment generation for instructors  
+- Complete backend, frontend, and database system  
 
 ---
 
-### 💾 FAT File System Simulation (Python)
-A low-level systems project simulating a **FAT-based file system** including:
-- Virtual disk
-- FAT table
-- Super block
-- Directory manager
-- File system manager
-- Shell interface
+### 💾 FAT File System Simulation
+**Low-level systems project using Python**
 
-✔️ Fully functional and runnable from `main`
+- Virtual disk  
+- FAT table  
+- Super block  
+- Directory & file system managers  
+- Fully functional shell interface  
 
 ---
 
 ### 🧮 Scientific & Programmer Calculator (C++)
-A powerful calculator supporting:
 - Scientific operations (sin, cos, power, etc.)
-- Programmer mode (number system conversions)
-- Continuous operation until user exits
+- Number system conversions
+- Continuous execution until user exits
 
 ---
 
 ## 🧠 Competitive Programming
-- Solved **500+ problems on Codeforces**
-- Strong understanding of:
-  - Data Structures
-  - Algorithms
-  - Time & Space Optimization
+![Codeforces](https://img.shields.io/badge/Codeforces-500%2B%20Problems-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)
 
 ---
 
 ## 📫 Contact Me
-
-- 📧 Email: **mariaashraf2004@gmail.com**
-- 💼 LinkedIn: [linkedin.com/in/mariaashraf2004](https://www.linkedin.com/in/mariaashraf2004/)
-- 🌐 Portfolio: [maria-ashraf-haleem.github.io/portfolio](https://maria-ashraf-haleem.github.io/portfolio/)
+![Email](https://img.shields.io/badge/Email-mariaashraf2004%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Maria%20Ashraf-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariaashraf2004/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=githubpages&logoColor=white)](https://maria-ashraf-haleem.github.io/portfolio/)
 
 ---
 
